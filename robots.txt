@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zkiei.github.io/kyr/sitemap.kyr.gz
